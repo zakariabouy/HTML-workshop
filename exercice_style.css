@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(113, 174, 235);
+}
+
+.div1 {
+    background-color: aliceblue;
+    border:2px solid black;
+    border-radius: 20px;
+    width: 330px;
+    height: 520px;
+    padding: 10px;
+    margin-left: 300px;
+    margin-top: 200px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div2 {
+    background-color: rgb(64, 136, 244);
+    border:2px solid black;
+    padding: 20px;
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}

@@ -1,0 +1,32 @@
+body{
+    background-color:aqua;
+}
+.T1{
+    color:red;
+}
+.T2{
+    color:blue;
+}
+.T3{
+    color:#20c679;
+}
+.T4{
+    color:rgb(13, 128, 195);
+}
+.T5{
+    color:rgba(58, 22, 147, 0.728);
+}
+.T6{
+    color:rgba(216, 24, 178, 0.728);
+}
+p {
+    background-color: rgb(144, 144, 227);
+}
+/* (CTRL + /) */
+li {
+    font-family: cursive;
+    font-size: 20px;
+}
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+}
